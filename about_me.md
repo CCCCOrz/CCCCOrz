@@ -1,2 +1,1 @@
-- Hi, I’m @CCCCOrz
-- I'm not active on github actually
+
